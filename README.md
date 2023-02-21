@@ -1,4 +1,4 @@
-# Hi I'm Salliii  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Hi, I'm Salliii  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 > Please visit my Portfolio Website <br>
 > https://salliii.dev/
