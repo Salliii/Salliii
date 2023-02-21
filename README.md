@@ -2,11 +2,13 @@
 
 > Please visit my Portfolio Website <br>
 > https://salliii.dev/
+<br>
 
 ## 👨🏻‍💻 I am ...
    * a self learned **Developer**
    * a trained **Electronics technician**
    * german
+<br>
 
 ## 💡 I'm Currently working on ...
    * my own **Portfolio Website**
